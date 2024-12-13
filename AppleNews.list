@@ -13,4 +13,5 @@ DOMAIN-SUFFIX,news-app-events.apple.com
 DOMAIN-SUFFIX,news-sports-events.apple.com       
 DOMAIN-SUFFIX,news.iadsdk.apple.com              
 DOMAIN-SUFFIX,newsletter-edge.apple.com          
-DOMAIN-SUFFIX,news-todayconfig-edge.apple.com  
+DOMAIN-SUFFIX,news-todayconfig-edge.apple.com
+DOMAIN-SUFFIX,news-client-search.apple.com
