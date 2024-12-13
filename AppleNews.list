@@ -1,8 +1,9 @@
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
+DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple.news                         
 DOMAIN-SUFFIX,news.apple.com                     
-OMAIN-SUFFIX,edge.apple.com
+DOMAIN-SUFFIX,edge.apple.com
 DOMAIN-SUFFIX,news-client.apple.com
 DOMAIN-SUFFIX,news-assets.apple.com              
 DOMAIN-SUFFIX,news-events.apple.com              
