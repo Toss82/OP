@@ -7,6 +7,11 @@ DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,1337x.to
+DOMAIN-SUFFIX,yts.mx
+DOMAIN-SUFFIX,limetorrents.lol
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,nyaa.si
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,parallels
