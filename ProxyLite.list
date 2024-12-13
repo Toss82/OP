@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,v2ex.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,parallels
