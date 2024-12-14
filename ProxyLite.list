@@ -1,5 +1,4 @@
 # 域名匹配
-DOMAIN,img.wonkychickens.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
@@ -13,7 +12,8 @@ DOMAIN-SUFFIX,yts.mx
 DOMAIN-SUFFIX,limetorrents.lol
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,nyaa.si
-
+DOMAIN-SUFFIX,picturedent.org
+DOMAIN-SUFFIX,wonkychickens.org
 # 域名关键字匹配
 DOMAIN-KEYWORD,parallels
 
