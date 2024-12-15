@@ -1,5 +1,6 @@
 # 域名匹配
-DOMANIN,api.ipify.org
+DOMAIN,api.ipify.org
+DOMAIN,amp-api-music-lb.itunes-apple.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
