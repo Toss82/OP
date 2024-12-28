@@ -16,9 +16,11 @@ DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,picturedent.org
 DOMAIN-SUFFIX,wonkychickens.org
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,rbxcdn.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,parallels
+DOMAIN-KEYWORD,roblox
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
