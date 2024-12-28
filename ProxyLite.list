@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,picturedent.org
 DOMAIN-SUFFIX,wonkychickens.org
+DOMAIN-SUFFIX,metacubex.one
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,parallels
 
