@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,rbxcdn.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,parallels
 DOMAIN-KEYWORD,roblox
+DOMAIN-KEYWORD,steam
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
