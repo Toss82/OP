@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-KEYWORD,parallels
 DOMAIN-KEYWORD,roblox
 DOMAIN-KEYWORD,steam
-DOMAIN-KEYWORD,ddys
+###DOMAIN-KEYWORD,ddys
 DOMAIN-KEYWORD,redgifs
 
 # IP段匹配
